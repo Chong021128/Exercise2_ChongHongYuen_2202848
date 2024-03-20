@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Exercise2</string>
+
+    <string name="weight">Weight</string>
+    <string name="height">Height in meters</string>
+    <string name="bmi">BMI</string>
+    <string name="value">Value</string>
+
+    <string-array name = "bmi_group">
+        <item>Underweight</item>
+        <item>Normal</item>
+        <item>Overweight</item>
+    </string-array>
+
+    <string-array name ="value_group">
+        <item>Below 18.5</item>
+        <item>18.5 to 24.9</item>
+        <item>More than 25</item>
+    </string-array>
+
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+
+
+</resources>
